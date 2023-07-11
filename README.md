@@ -2,7 +2,7 @@
 ## Description
 A portfolio website that showcases my skills and talents will be essential to my career search following completion of the bootcamp. To set myself up for the future, I have created a responsive website that illustrates the key areas I have studied, incuding flexbox, media queries, and CSS variables. Elements include images that respond to screen size and an interactive nav bar. 
 View the deployed page here: https://charlottebgh.github.io/charlotte-brazier-portfolio/
-![image](https://github.com/CharlotteBGH/charlotte-brazier-portfolio/assets/99615123/2deb5dca-5c7d-49a0-9ca2-8ba54c9ca990)
+![image](https://github.com/CharlotteBGH/charlotte-brazier-portfolio/assets/99615123/04b734b9-8cbe-478b-9b83-559ea0c8036f)
 ## Usage
 Click or tap on the About/Contact/Work links in the navigation bar to scroll to the corresponding section. 
 View images of my work in the Work section. 
